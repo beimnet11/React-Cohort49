@@ -1,0 +1,16 @@
+{
+  "name": "0-myown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-navigation.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
+}
